@@ -7,7 +7,7 @@ define('DB_NAME','amvc');
 // App Root
 define ('APPROOT',dirname(dirname(__FILE__)));
 //URL Root
-define('URLROOT','http://localhost/datetime');
+define('URLROOT','https://alireza1420.github.io/Datetime/');
 //Site Name
 define('SITENAME','datetime');
 
